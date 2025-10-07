@@ -5,3 +5,4 @@ edition = "2021"
 description = "High-performance Ultralytics YOLO inference in Rust with ONNX Runtime, GPU backends, CLI, and WebGPU/WASM."
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# match the style used in the rest of the module
